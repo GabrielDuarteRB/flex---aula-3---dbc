@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header{
+    background: #1D1E20;
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalho nav ul {
+    display: flex;   
+}
+
+.cabecalho nav ul li a{
+    font-size: 18px;
+    color: white;
+    margin: 15px;
+}

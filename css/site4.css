@@ -1,0 +1,18 @@
+.imagens {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.imagens p {
+    background-color: #2C2C2C;
+    color: white;
+    font-size: 18px;
+    margin-top: -30px;
+    padding: 15px 30px;
+    position: relative;
+}
+
+.imagens-lado div {
+    margin-bottom: 50px;
+}

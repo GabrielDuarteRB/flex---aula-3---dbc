@@ -1,0 +1,29 @@
+.principal {
+    margin-top: 50px;
+}
+
+.noticias{
+    display: flex;
+    justify-content: space-between;
+}
+
+.noticias p {
+    font-size: 18px;
+    margin: 10px 0 30px 0;
+}
+
+.produtos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.propaganda p{
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.java{
+    display: flex;
+    justify-content: space-between;
+}
