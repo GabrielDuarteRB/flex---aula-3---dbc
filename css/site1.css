@@ -27,3 +27,17 @@
     display: flex;
     justify-content: space-between;
 }
+
+
+.java div {
+    margin-right: 90px;
+}
+
+.java div div {
+    display: flex;
+    align-items: center;
+}
+
+.java p {
+    font-size: 18px;
+}
